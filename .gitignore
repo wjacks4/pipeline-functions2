@@ -9,6 +9,7 @@ firebase-debug.*.log*
 
 # config
 functions/util/config.js
+functions/util/pipeline-a3be1-firebase-adminsdk-9f383-6201077f79.json
 
 # Firebase cache
 .firebase/
